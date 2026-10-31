@@ -1,0 +1,39 @@
+# ---- API keys and secrets: NEVER upload ----
+agent_key*
+openai_key*
+*key*.txt
+.env
+
+# ---- the engines' saved archives, backups and memory ----
+*.json.gz
+*.json.gz.bak
+*.bak
+*.tmp
+dragon_z_v23_memory*
+dragon_z_life_memory*
+mini_dragon_agent_memory*
+mini_dragon_memory*
+
+# ---- the agent's personal workspaces (each has its own archive) ----
+dragon_z_workspaces/
+
+# ---- UNRELEASED work (patent): Dragon Z v23.18 to v23.29 and Dragon Z Life ----
+# (v23.13.1, v23.15, v23.16, v23.17 and mini_dragon_v3_31 are already public)
+dragon_z_v23_18.py
+dragon_z_v23_19.py
+dragon_z_v23_2[0-9].py
+dragon_z_life*.py
+
+# ---- build and test helpers ----
+make_dz*.py
+libgen.py
+test_*.py
+tl_*/
+up[0-9]*/
+sg/
+lt/
+final*/
+
+# ---- Python junk ----
+__pycache__/
+*.pyc
