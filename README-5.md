@@ -1,6 +1,6 @@
 # Mini Dragon — Zero Theorem engine with an AI agent
 (Dragon Z, Mini Dragon and the Zero Theorem engines
-Owner and author of the ideas, rules, design and direction: Luke.
+Owner and author of the ideas, rules, design and direction: Luke T Branderhorst.
 Everything in this repository belongs to Luke: the engines, their code, their rules, their design, the ideas behind them, and everything they find, produce or record.
 Ownership statement
 Dragon Z, Mini Dragon and the Zero Theorem engines are Luke's work.
